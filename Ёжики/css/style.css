@@ -431,6 +431,7 @@ input::placeholder {
     margin-top: 20px;
     width: 1096px;
     height: 108px;
+    background-color: #F8F8F8;
     border: none;
     outline: none;
     border-radius: 8px;
